@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/transition.png",
+        "source": "/Users/saumya/.android/build-cache/a43c71d4b00a03c4452f7a404c509a83c9ff818b/output/res/drawable-hdpi-v4/transition.png"
+    },
+    {
+        "merged": "/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/quantum_ic_close_white_24.png",
+        "source": "/Users/saumya/.android/build-cache/a43c71d4b00a03c4452f7a404c509a83c9ff818b/output/res/drawable-hdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/Users/saumya/.android/build-cache/a43c71d4b00a03c4452f7a404c509a83c9ff818b/output/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_28cc0cf48e8c923a770e03952e2cf3bab41e2fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saumya/.android/build-cache/a43c71d4b00a03c4452f7a404c509a83c9ff818b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_816efefc41e38e39c963a9d46b4cf6b77d441d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saumya/.android/build-cache/f5513cc3d10360d47cda852c0b32150fd824ce26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0e0407ba1034ef38f82de9f15d8a230967006a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="/Users/saumya/Desktop/Unity_projects/HelloCardboard/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_eb029f3f3c52774cc437f36b06d1c148185d4414.jar" />
+    </item>
+
+</items>
