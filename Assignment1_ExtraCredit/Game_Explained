@@ -1,0 +1,3 @@
+The Final_game.unity under HelloCardboard_Extra project folder is my final game. 
+This game initiates the gravity of a shpere on a click, which then falls on a plank and drops/collides with a plane target. 
+The plane gets destroyed after collision and a text is displayed.
